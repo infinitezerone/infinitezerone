@@ -2,9 +2,9 @@
 
 ### 🔥 GitHub 统计
 
-![InfiniteZerone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=infinitezerone)
+![Stats](https://github-readme-stats-yourname.vercel.app/api?username=infinitezerone)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitezerone)
+![Top Langs](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=infinitezerone)
 
 <!--
 **InfiniteZerone/InfiniteZerone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
