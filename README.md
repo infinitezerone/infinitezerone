@@ -12,10 +12,6 @@ explore world
 
 <p align="center">
 
-<img src="https://github-readme-stats-infinitezerone.vercel.app/api?username=infinitezerone&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats-infinitezerone.vercel.app/api/top-langs/?username=infinitezerone&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=infinitezerone&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -36,8 +32,4 @@ explore world
 </a>
 </p>
 
----
 
-# 🧩 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=infinitezerone&color=blue&style=flat"/>
